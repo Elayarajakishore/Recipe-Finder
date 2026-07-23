@@ -1,5 +1,5 @@
 {
-  "proxy": "https://recipe-finder-backend-hrld.onrender.com",
+  
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
